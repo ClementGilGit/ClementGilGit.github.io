@@ -868,7 +868,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::before {
-    border-right: 12px solid #68c3a3;
+    border-right: 12px solid #00b7ff;
     border-left: 0;
 }
 
