@@ -856,7 +856,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::before {
-    border-left: 12px solid #68c3a3;
+    border-left: 12px solid #00b7ff;
 }
 
 .timeline>li.timeline-inverted .timeline-panel::before {
@@ -890,8 +890,7 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::after {
-    border-left: 12px solid #68c3a3;
-}
+    border-left: 12px solid #00b7ff
 
 .timeline>li.timeline-inverted .timeline-panel::after {
     right: 100%;
